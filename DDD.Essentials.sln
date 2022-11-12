@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{968530B2-D68C-4175-BB5F-962B639E3E34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD.Essentitals", "DDD.Essentitals\DDD.Essentitals.csproj", "{723D693B-E086-4040-91F8-D191E85E6281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{723D693B-E086-4040-91F8-D191E85E6281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723D693B-E086-4040-91F8-D191E85E6281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723D693B-E086-4040-91F8-D191E85E6281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723D693B-E086-4040-91F8-D191E85E6281}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{723D693B-E086-4040-91F8-D191E85E6281} = {968530B2-D68C-4175-BB5F-962B639E3E34}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABCDEB9A-D024-4D42-A164-90AB47A664D2}
+	EndGlobalSection
+EndGlobal
