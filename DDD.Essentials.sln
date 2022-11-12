@@ -5,7 +5,12 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{968530B2-D68C-4175-BB5F-962B639E3E34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD.Essentitals", "DDD.Essentitals\DDD.Essentitals.csproj", "{723D693B-E086-4040-91F8-D191E85E6281}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDD.Essentitals", "DDD.Essentitals\DDD.Essentitals.csproj", "{723D693B-E086-4040-91F8-D191E85E6281}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E0611E38-099B-4E9E-9C45-E2139A9AE932}"
+	ProjectSection(SolutionItems) = preProject
+		.github\workflows\ci.yml = .github\workflows\ci.yml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
